@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on.
+- 🔭 I’m currently working on Some **BOT**.
 - 🌱 I’m currently learning so many thing.
 - 👯 I’m looking to collaborate on new directions.
 - 🤔 I’m looking for help with sth.
